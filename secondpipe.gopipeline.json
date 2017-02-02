@@ -1,5 +1,5 @@
 {
-  "name": "Secondpipe",
+  "name": "secondpipe",
   "enable_pipeline_locking": false,
   "group" : "configrepo-example",
   "environment_variables": [],
