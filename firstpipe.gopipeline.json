@@ -28,6 +28,13 @@
           "tasks": [
             {
               "type": "rake"
+            },
+             {
+              "type": "exec",
+              "command": "echo",
+              "arguments": [
+                "$ENV_VAR_1",
+              ]
             }
           ]
         }
