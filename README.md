@@ -1,7 +1,6 @@
 # gocd-json-config-example
 Example Go configuration repository with json configuration
 
-
 ## Server configuration
 
 In order to import this configuration in your Go server.
